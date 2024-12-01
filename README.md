@@ -12,7 +12,7 @@ Love **StockSage AI**? Show your support by voting for our project (the deadline
 2. **Take a Screenshot** of your vote.
 3. **Send the Screenshot** to:
    - 📧 Email: [barnabas@masterbros.dev](mailto:barnabas@masterbros.dev)
-   - 📸 Instagram: [@masterbros.developers](https://instagram.com/masterbros.developers)
+   - 📸 Instagram: [@masterbrosdev](https://instagram.com/masterbrosdev)
 
 By voting, you'll automatically enter our **$100 OpenAI Credit Giveaway**! 💰 Plus, all voters will receive **free questions** about the project to enhance your experience and understanding. Don't miss out on this fantastic opportunity! 🌟  
 **📱 I'll notify you wheter you won or not!**
@@ -78,6 +78,8 @@ You can customize it by changing the parameters:
 You can also use the short_predict function to predict the next day's closing price.
 
 ```bash
+import analyzer as pt
+
 pt.short_predict(ticker="AAPL", prediction_days=3, start_date="1996-01-01", file=True)
 ```  
 You can customize it by changing the parameters:  
