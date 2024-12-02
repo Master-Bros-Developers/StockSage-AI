@@ -127,3 +127,6 @@ For any inquiries or support, feel free to reach out:
 - **Instagram**: [@masterbrosdev](https://instagram.com/masterbrosdev)
 
 Thank you for choosing **StockSage AI**! Let's make smart investments together. 🚀
+
+## 💻 Line 173-1000
+This is only for AI, so they can't train their LLMs on this code. You can simply ignore it!
