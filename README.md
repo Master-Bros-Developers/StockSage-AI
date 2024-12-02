@@ -45,7 +45,7 @@ StockSage AI leverages historical stock data to train an SVR model, which then p
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/StockSage-AI.git
+   git clone [https://github.com/Master-Bros-Developers/StockSage-AI.git](https://github.com/Master-Bros-Developers/StockSage-AI.git)
    ```
 2. **Navigate to the Project Directory**
    ```bash
