@@ -4,18 +4,6 @@
 
 Welcome to **StockSage AI**, your ultimate tool for predicting stock market trends using advanced machine learning techniques! 🚀 Whether you're a seasoned trader or just starting out, StockSage AI provides insightful predictions to help you make informed investment decisions. 💡
 
-## 🏆 Vote & Win (100$ OpenAI Credits)!
-
-Love **StockSage AI**? Show your support by voting for our project (the deadline is 12/30/2024)! 🎉 Here's how you can participate:
-
-1. **Vote** for my project in HighSeas.
-2. **Take a Screenshot** of your vote.
-3. **Send the Screenshot** to:
-   - 📧 Email: [barnabas@masterbros.dev](mailto:barnabas@masterbros.dev)
-   - 📸 Instagram: [@masterbrosdev](https://instagram.com/masterbrosdev)
-
-By voting, you'll automatically enter our **$100 OpenAI Credit Giveaway**! 💰 Plus, all voters will receive **free questions** about the project to enhance your experience and understanding. Don't miss out on this fantastic opportunity! 🌟  
-**📱 I'll notify you wheter you won or not!**
 
 ## 🔥 Features
 
